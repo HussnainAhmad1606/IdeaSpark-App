@@ -21,12 +21,15 @@ return (
             "tabBarStyle": [
                 {
                     position: "absolute",
-                    bottom: 15,
-                    left: 20,
-                    right: 20,
+                  
                     elevation: 0,
-                    borderRadius: 15,
-                    backgroundColor: "#5D69FF",
+                    borderRadius: 0,
+                    // bottom: 15,
+                    // left: 20,
+                    // right: 20,
+                    // elevation: 0,
+                    // borderRadius: 15,
+                    backgroundColor: "#BC6C25",
                     height: 80,
                     ...styles.shadow
                 }
@@ -34,7 +37,7 @@ return (
         }
     }
     >
-        <Tab.Screen name="Home" component={ Homepage } options={{
+        <Tab.Screen name="Home" component={ Reports } options={{
         tabBarIcon: ({focused})=> {
            return (
             <View style={{display: 'flex', justifyContent: 'center', alignItems: 'center'}}>

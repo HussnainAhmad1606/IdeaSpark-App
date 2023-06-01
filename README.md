@@ -1,11 +1,119 @@
-# React Native App with Navigation Template
+readme.so logo
 
-This repository contains code of REACT NATIVE project that has REACT NAVIGATION implemented. This repo serves as template to make REACT NATIVE app where you have to implement Navigation.
+dark
+Download
+SectionsReset
 
-## Installation
+Delete
+Click on a section below to edit the contents
 
-Clone this repo and change the name in packages.json
 
-```bash
-git clone https://github.com/HussnainAhmad1606/React-Native-Navigation-Template.git
-```
+
+
+Draggable item lessons was dropped over droppable area roadmap
+Click on a section below to add it to your readme
+
+Custom Section
+
+Acknowledgements
+
+API Reference
+
+Appendix
+
+Authors
+
+Badges
+
+Color Reference
+
+Contributing
+
+Demo
+
+Deployment
+
+Documentation
+
+Environment Variables
+
+FAQ
+
+Feedback
+
+Github Profile - About Me
+
+Github Profile - Introduction
+
+Github Profile - Links
+
+Github Profile - Other
+
+Github Profile - Skills
+
+Installation
+
+License
+
+Logo
+
+Optimizations
+
+Related
+
+Run Locally
+
+Screenshots
+
+Support
+
+Tech
+
+Running Tests
+
+Usage/Examples
+
+Used By
+Editor
+
+## Lessons Learned
+
+I will write all lessons that I have learned while making this project in this section
+
+Preview
+Raw
+
+# TheOutfitMate - App
+
+This repository contains code for my App OutfitMate that provides the user with customized outfits based on their clothes.
+
+
+
+## Features Completed
+
+Screens:
+
+- [x]  Profile Screen
+
+
+
+## Future Roadmap
+Screens:
+
+- [ ]  Getting Started Screen
+- [ ]  Homepage Screen
+- [ ]  Single Outfit Screen
+- [ ]  Login Screen
+- [ ]  Sign Up Screen
+- [ ]  Settings Screen
+
+Features:
+
+- [ ]  Login/Signup Authentication
+- [ ]  API Connection
+and there are more features that will be added from time to time
+## Lessons Learned
+
+I will write all lessons that I have learned while making this project in this section
+
+readme.so

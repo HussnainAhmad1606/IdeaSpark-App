@@ -5,32 +5,7 @@ export default function Homepage() {
   return (
     <View style={styles.container}>
       <Text style={styles.subHeading}>Al - FURQAN</Text>
-      <Text style={styles.subHeading}>12 Rajab, 1442</Text>
-      <Text style={styles.subHeading}>Saturaday 25, 2023</Text>
-
-      <View style={styles.boxContainer}>
-          <View style={styles.box}>
-            <Text style={styles.heading}>300 Hours</Text>
-            <Text style={styles.description}>Reading Time</Text>
-          </View>
-
-          <View style={styles.box}>
-            <Text style={styles.heading}>20</Text>
-            <Text style={styles.description}>Times Quran Read</Text>
-          </View>
-
-      </View>
-
-
-      <Text style={styles.summaryHeading}>Summary</Text>
-
-      <View>
-        <Text>Reading Daily</Text>
-        <View style={styles.progressBar}></View>
-      </View>
-
-      <Text style={styles.summaryHeading}>Today Progress</Text>
-      <StatusBar style="auto" />
+     
     </View>
   );
 }

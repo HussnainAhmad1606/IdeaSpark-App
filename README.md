@@ -1,14 +1,10 @@
-# TheOutfitMate - App
+# IdeaSpark - App
 
-This repository contains code for my App OutfitMate that provides the user with customized outfits based on their clothes.
-
+This repository contains code for IdeaSpark app that provides user with reels to get inspirations related to their work. User can also upload their work in form of reel.
 
 
 ## Features Completed
-
-Screens:
-
-- [x]  Profile Screen
+Nothing for now
 
 
 
@@ -16,11 +12,11 @@ Screens:
 Screens:
 
 - [ ]  Getting Started Screen
-- [ ]  Homepage Screen
-- [ ]  Single Outfit Screen
+- [ ]  Videos Screen (For viewing video with like and share button on UI)
 - [ ]  Login Screen
 - [ ]  Sign Up Screen
 - [ ]  Settings Screen
+- [ ]  Profile Screen
 
 Features:
 

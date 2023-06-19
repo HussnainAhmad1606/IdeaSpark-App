@@ -37,7 +37,7 @@ return (
         }
     }
     >
-        <Tab.Screen name="Home" component={ Reports } options={{
+        <Tab.Screen name="Home" component={ Homepage } options={{
         tabBarIcon: ({focused})=> {
            return (
             <View style={{display: 'flex', justifyContent: 'center', alignItems: 'center'}}>
